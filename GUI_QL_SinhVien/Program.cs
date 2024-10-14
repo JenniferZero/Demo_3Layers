@@ -15,6 +15,7 @@ namespace GUI_QLSinhVien
         static void Main(string[] args)
         {
             testStudentList();
+            
         }
     }
 }

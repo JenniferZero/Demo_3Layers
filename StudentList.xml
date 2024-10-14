@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<StudentList>
+	<Student>
+		<StudentID>12345</StudentID>
+		<LastName>Nguyễn Thị Tú</LastName>
+		<FirstName>Trinh</FirstName>
+		<Phone>0933726351</Phone>
+		<Email>ntttrinh@gmail.com</Email>
+		<AverageScore>6.27</AverageScore>
+	</Student>
+	<Student>
+		<StudentID>34251</StudentID>
+		<LastName>Lê Hoàng Diệp</LastName>
+		<FirstName>Thảo</FirstName>
+		<Phone>0873234567</Phone>
+		<Email>lhdthao@gmail.com</Email>
+		<AverageScore>6.83</AverageScore>
+	</Student>
+</StudentList>

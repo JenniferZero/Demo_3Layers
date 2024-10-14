@@ -34,6 +34,6 @@ namespace DAL_QL_SinhVien
             {
                 return null;
             }
-        }       
+        }
     }
 }
