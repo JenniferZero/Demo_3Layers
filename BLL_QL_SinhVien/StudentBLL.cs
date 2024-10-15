@@ -10,7 +10,7 @@ namespace BLL_QL_SinhVien
         public StudentBLL() { }
         public List<StudentDTO> getStudentList()
         {
-            return studentDAL.readFile("D:\\Users\\WIN 10\\source\\Repos\\Demo_3Layers\\StudentList.xml");
+            return studentDAL.readFile("../../Data/StudentList.xml");
         }
     }
 }
