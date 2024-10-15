@@ -21,8 +21,8 @@ namespace DAL_QL_SinhVien
                 {
                     StudentDTO st = new StudentDTO();
                     st.StudentID = node["StudentID"].InnerText;
-                    st.Firstname = node["Firstname"].InnerText;
-                    st.Lastname = node["Lastname"].InnerText;
+                    st.Firstname = node["FirstName"].InnerText;
+                    st.Lastname = node["LastName"].InnerText;
                     st.Email = node["Email"].InnerText;
                     st.Phone = node["Phone"].InnerText;
                     st.AverageScore = double.Parse(node["AverageScore"].InnerText);
